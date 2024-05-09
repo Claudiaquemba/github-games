@@ -12,3 +12,7 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 hhh
 PRUEBA DEV 1
 PRUEBA DEV2
+ESTA ES UNA PRUEBA QA 1
+ESTA ES UNA PRUEBA DEV1
+ESTA ES UNA PRUEBA QA2
+ESTA ES PRUEBA QA2 REAL
